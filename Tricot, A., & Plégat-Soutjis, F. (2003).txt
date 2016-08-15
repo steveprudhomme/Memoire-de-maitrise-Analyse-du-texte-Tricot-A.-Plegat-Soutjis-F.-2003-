@@ -1,0 +1,551 @@
+Pour une approche ergonomique de la conception d’un dispositif de formation `a distance utilisant les TIC 
+Andr´e Tricot, Fabienne Pl´egat-Soutjis 
+
+To cite this version: 
+Andr´e Tricot, Fabienne Pl´egat-Soutjis. Pour une approche ergonomique de la conception d’un dispositif de formation `
+a distance utilisant les TIC. Sciences et Technologies de l’Information et de la Communication pour l’ ´ 
+Education et la Formation (STICEF), ATIEF, 2003, 10, 27 p. <hal-00696379> 
+
+HAL Id: hal-00696379 https://hal.archives-ouvertes.fr/hal-00696379 
+
+Submitted on 11 May 2012 
+HAL is a multi-disciplinary open access archive for the deposit and dissemination of sci­enti.c research documents, whether they are pub­lished or not. The documents may come from teaching and research institutions in France or abroad, or from public or private research centers. 
+L’archive ouverte pluridisciplinaire HAL, est destin´ee au d´epˆot et `a la di.usion de documents scienti.ques de niveau recherche, publi´es ou non, ´emanant des ´etablissements d’enseignement et de recherche fran¸cais ou ´etrangers, des laboratoires publics ou priv´es. 
+
+
+Sciences et Technologies de l´Information et 
+Volume 10, 2003 
+
+de la Communication pour 
+Article de recherche 
+
+l´Éducation et la Formation 
+
+
+Pour une approche ergonomique de la conception d’un dispositif de formation à distance utilisant les TIC 
+André Tricot, Fabienne Plégat-Soutjis 
+IUFM de Midi-Pyrénées 
+
+
+
+RÉSUMÉ : Cet article présente ce que pourrait être une approche ergonomique de la conception d’un dispositif de formation utilisant les TIC. Plus qu’une méthode, qui indique aux concepteurs comment il faut concevoir, l’approche ergonomique présentée défend l’idée que l’on peut tenter d’améliorer le travail des concepteurs et des utilisateurs de tels dispositifs de formation en leur indiquant non pas comment faire, ni même quoi faire, mais plutôt en les aidant à élaborer et à partager une représentation commune du but et du processus de conception. Pour améliorer le travail des utilisateurs, il faudrait comprendre les différents aspects de leurs activités d’apprentissage et d’utilisation du dispositif, pour favoriser la mise en œuvre de ces activités. L’article présente une liste de questions adressées aux concepteurs, censées les aider à élaborer en commun une représentation, à anticiper les problèmes des utilisateurs et à chercher des solutions. 
+
+
+
+MOTS CLÉS : Ergonomie, conception, formation à distance, utilisabilité, ingénierie pédagogique 
+
+
+
+ABSTRACT : This article presents what could be an ergonomic approach of the design of an ITC based distance learning device. More than a method, which indicates to the designers how they have to design, the ergonomic approach presented defends the idea that we can try to improve the designers’ and the users’ work, not by telling them how to do, nor even what to do, but rather by helping them to work out and share a common representation of the design goal and process. To improve the users’ work, it would be necessary to understand the various aspects of their learning and using activities, to support the implementation of these activities. The article presents a list of questions addressed to the designers, supposed to help them to work out a representation jointly, to anticipate the users’ problems and to seek solutions.  
+
+
+
+KEYWORDS : Ergonomics, design, distance learning, usability, instructional design 
+
+
+• 
+1. Introduction 
+
+• 
+2. Qu’est-ce que la conception ? 
+
+• 
+3. Quelques questions pour une équipe de conception 
+
+• 
+4. Conclusion 
+
+• 
+Bibliographie 
+
+
+1. Introduction 
+La littérature sur l’ingénierie pédagogique ou le instructional design est immense (8348 documents sur la base Educational Resources Information Centrer – ERIC – en juillet 2003). Même une librairie en ligne généraliste comme AMAZON référence plus de 40 ouvrages sur le thème. La littérature sur l’ingénierie pédagogique spécialisée au domaine de l’enseignement et de la formation à distance reste très conséquente (945 documents sur la base ERIC). Il faut trouver des mots clés nouveaux, comme e-learning, accolés à instructional design, pour atteindre un nombre raisonnable de documents (45 sur la base ERIC). Cette vaste littérature est parfois technique (plus que de conception on parle de réalisation), parfois théorique (on parle d’influence de telle théorie pédagogique sur la conception), parfois anecdotique (on parle de sa propre expérience de concepteur), etc. Le processus même de conception est présenté parfois comme une procédure, ou comme l’application de règles, un problème à résoudre, des contraintes à satisfaire, etc. Comment oser écrire un article qui traite d’ingénierie pédagogique aujourd’hui ? Notre parti pris est de défendre une approche ergonomique de la conception, car cette approche a rarement été défendue dans le domaine (voir cependant [Yeaman89], [DennenBranch95], [Lohr00]). Notre approche s’articule autour des réponses à deux questions principales.  
+
+
+• 	
+Comment améliorer le processus de conception ? En aidant les différents participants à ce processus à partager une même représentation du but et du processus de conception. 
+
+• 	
+Comment aboutir à un dispositif qui facilitera et rendra plus efficace l’activité mentale des apprenants ? En identifiant les aspects critiques de l’utilisation pour lesquels il existe dans la littérature des résultats empiriques qui viennent apporter une réponse de conception. 
+
+
+1.1. Un dispositif difficile à concevoir et à utiliser 
+Dans cet article, nous postulons que concevoir un dispositif efficace de formation à distance utilisant les TIC, c’est concevoir un artefact complexe qui favorise l’apprentissage, permette à l’apprenant de réaliser les tâches prescrites, soit adapté aux objectifs d’apprentissage et compense les difficultés qu’implique l’autonomie. 
+Si elle apporte parfois un gain en efficacité pédagogique, la formation à distance utilisant les TIC présente cependant des freins, bien connus aujourd’hui [Horton00]. 
+Pour les concepteurs, elle implique plus de travail, un long processus de transformation, même partielle, du présentiel vers la distance, l’impossibilité de proposer certaines tâches et certains apprentissages à distance. 
+Pour les utilisateurs, elle entraîne plus d’efforts et d’investissement, une dégradation de la communication entre les apprenants et les formateurs, de même qu’entre les apprenants [FoucaultAl02] et parfois des réticences et des difficultés liées à l’utilisation des TIC. 
+Il faudrait donc partir du postulat d’une faible acceptabilité du dispositif et tenter de compenser cette faiblesse [Schanck02]. 
+On le voit très rapidement, la conception d’un dispositif de formation à distance est un problème complexe à résoudre per se et parce qu’il faut anticiper et résoudre les problèmes des utilisateurs. Ces problèmes de conception sont en outre souvent mal définis et impliquent la participation de plusieurs acteurs. Ces acteurs ont des compétences différentes, une idée parfois différente du but à atteindre et interviennent à des moments différents du processus de conception.  
+
+1.2. Positionnement de l’article 
+Le but de cet article est de contribuer à la définition d’une approche ergonomique de la conception de dispositifs de formation à distance utilisant les TIC. L’ergonomie est une discipline qui rassemble des connaissances permettant l’amélioration de la conception et de l’évaluation des situations de travail et des outils [TricotAl03a]. On précise parfois [Visser02] qu’il s’agit d’ergonomie cognitive quand le travail en question est cognitif, ce qui correspond à l’activité des concepteurs et des utilisateurs de dispositifs de formation à distance. Si le travail des concepteurs et des utilisateurs de tels dispositifs est complexe, alors l’ergonomie doit pouvoir contribuer à l’amélioration de ce travail. Pour autant, l’ergonomie de la formation ou l’ergonomie de l’enseignement sont des secteurs très peu développés (voir cependant [Leplat91], [Boucheix03], si on les compare à l’ergonomie des processus industriels ou du pilotage d’avion. L’ergonomie des dispositifs de formation à distance utilisant les TIC est quant à elle quasiment inexistante, bien que l’on puisse considérer que Diana Laurillard, Claire O’Malley, Jenny Preece et Lisanne Bainbridge chez les anglophones, ou Aude Dufresne, Renan Samurçay et Janine Rogalski chez les francophones, en aient déjà posé des fondations depuis 15 ans, en articulant ergonomie, formation, psychologie, apprentissages par ordinateur (ou simulateur) et interactions humains-machines [Bainbridge93], [AinsworthOMalley98], [Dufresne91], [GasenPreece96], [Laurillard98], [OMalley92], [Rogalski95], [RogalskiSamurcay86], [SamurcayRogalski98], [SquiresPreece96]. Nous renvoyons le lecteur à [Paquette02] pour une présentation historique de l’ingénierie pédagogique et son positionnement actuel comme ingénierie cognitive. Le but de cet article est donc de proposer une première approche de ce que pourrait être une ergonomie de la conception de tels dispositifs. 
+Si, comme nous le croyons, l’activité des concepteurs et des utilisateurs de dispositifs de formation à distance utilisant les TIC est bien une activité cognitive, alors il semble acceptable d’utiliser comme référence les travaux qui étudient les activités cognitives humaines. Selon notre conception des apprentissages [Tricot03], les systèmes biologiques ont appris quelque chose quand ils sont capables de réutiliser une trace d’un environnement dans le même environnement ou un autre, ultérieurement. Ces traces peuvent avoir pour source un événement, une différence, un signe, etc. Chez les êtres humains, ces traces dans un registre cognitif, assez élaboré et codé, sont souvent : souvenirs, affects, mais aussi interprétations, concepts, savoir-faire, méthodes, etc. [Schacter99]. Parfois même ces traces cognitives sont plus le fait d’un projet de l’être humain sur son environnement ou sur lui-même, que d’un aspect de l’environnement extérieur au contrôle du sujet. Dans certaines situations, l’apprentissage adaptatif-naturel n’est pas considéré comme suffisant. Les humains, mais aussi quelques animaux, mettent alors en place des situations artificielles d’apprentissage, des situations d’apprentissage par enseignement, pour que l’apprenant apprenne plus vite, ou qu’il acquière des connaissances qui ne sont pas immédiatement fonctionnelles (mais le seront probablement par la suite). Les apprentissages par enseignement sont donc par nature socio-cognitifs. Ces apprentissages à partir de situations artificielles n’ont a priori aucune raison d’échapper aux mécanismes d’apprentissages naturels (seulement les situations sont artificielles). Mais on peut imaginer que les apprentissages par résolution de problèmes artificiels ou par explication seront parfois difficiles à mettre en œuvre, voire coûteux, car non adaptatifs. De nombreux travaux empiriques visent à mettre à jour des façons de réduire le coût cognitif des situations d’apprentissage par enseignement tout en maintenant le but d’apprentissage [Mayer01], [Sweller99]. Le but de cet article est de montrer que ce type de travaux empiriques contrôlés, fondés sur des hypothèses réfutables et répliquant leurs résultats, peuvent fonder une démarche ergonomique de conception de dispositifs de formation à distance utilisant les TIC. 
+
+
+2. Qu’est-ce que la conception ? 
+La conception est une tâche cognitive complexe. Elle consiste à atteindre un but au moyen d’actions physiques et d’opérations mentales, en fonction de ressources et de contraintes temporelles, financières et matérielles. Classiquement, on appelle cette tâche "un problème mal défini" [Simon73] : un problème qui admet plusieurs solutions possibles, difficiles à se représenter au début du processus et dont les critères de satisfaction ou les contraintes ne sont pas forcément clairs. Ces derniers peuvent être découverts en cours de processus. La solution trouvée ne sera pas bonne ou mauvaise, elle sera optimale, dans le meilleur des cas. 
+La conception d’un dispositif de formation à distance est aussi un processus coopératif. Différents acteurs de la conception interviennent au cours du processus, avec les compétences différentes, mais aussi des contraintes différentes, et, finalement, des représentations du but et du processus différentes. Ces acteurs interviennent, de plus en plus, de façon concomitante au cours du processus, et non plus, comme par le passé, de façon séquentielle [Darses02]. Parmi les acteurs de la conception, certains ont un rôle "indirect" : sans intervenir sur le processus, ils peuvent l’influencer fortement. C’est le cas par exemple des personnes chargées de la maintenance, mais aussi du commanditaire et des utilisateurs [Chevallier03]. Depuis quelques années, à l’image d’un courant de fond en ingénierie cognitive, des méthodes de conception participative d’environnements informatiques pour l’apprentissage humain intègrent le point de vue des utilisateurs, qu’ils soient apprenants ou enseignants [Scaife97]. Organiser, réguler, modéliser cette coopération est en soi un problème complexe. Résoudre ce problème, c’est d’abord amener les acteurs du processus à partager une même représentation du but et plus largement du processus. Cette intégration des points de vue est un processus socio-cognitif [Cahour02]. 
+La conception, telle que nous l’entendons dans cet article, est différente de la réalisation. Concevoir, ce n’est pas fabriquer un artefact, c’est définir ses caractéristiques. L’aboutissement du processus de conception peut être, par exemple, un cahier des charges technique.  
+Pour aider ou rationaliser le travail de conception, on pense souvent qu’il faut adopter une méthode. Une méthode est censée permettre d’optimiser la démarche en termes financiers, de temps, de main d’œuvre, etc. Elle doit surtout servir à mieux prendre en compte le but recherché, notamment en termes : 
+• 
+d’utilité : se donner les moyens de faire réellement apprendre ce que l’on veut faire apprendre ; 
+
+• 
+d’utilisabilité : se donner les moyens de faire un dispositif utilisable par les apprenants ; 
+
+• 	
+d’acceptabilité : se donner les moyens de faire un dispositif compatible avec les pratiques, les ressources, les contraintes, les objectifs des apprenants et de l’institution de formation-enseignement.  
+
+
+Une méthode de conception décrit un certain nombre d’étapes de la conception, des tâches à réaliser à chaque étape, des relations entre étapes et entre tâches. Parfois, la méthode intègre des prescriptions, des solutions de conception, des conseils, etc. On trouve aussi dans la littérature en ingénierie pédagogique des "règles d’or", sortes de listes de conseils de tous ordres [LeeOwens00], mais aussi des processus de conception assimilés à de la gestion de contraintes. Un point critique nous semble concerner les relations entre étapes et entre tâches, relations qui peuvent être linéaires ou opportunistes. Dans une démarche linéaire, toute étape n ne peut être abordée que si et seulement si l’étape n-1 est achevée. Les tâches à réaliser à chaque étape peuvent, elles aussi, être ordonnées de la sorte. L’évaluation est la dernière étape de la conception, elle peut donner lieu à un retour vers les étapes n1, n2, etc. Une démarche opportuniste, au contraire, ne définit pas d’ordre entre les étapes ni entre les tâches, l’évaluation elle-même étant un travail conduit au long cours avec un rôle de feedback permanent [NanardNanard98]. Une approche critique consiste non pas à aider ou assister le processus de conception lui-même mais l’évaluation­révision des décisions de conception [Bonnardel95]. 
+La pratique qui consiste à suivre des principes, des étapes, voire des solutions de conception, n’est pas spécifique à l’ingénierie pédagogique. Dans ce domaine, il nous semble même que cette pratique soit peu répandue. Nous avons souvent observé des équipes travaillant sans méthode explicite. Deux hypothèses principales peuvent contribuer à l’explication de ce phénomène : les équipes méconnaissent ces méthodes (ce qui en France est plausible, la formation à l’ingénierie pédagogique étant peu répandue) ; ces méthodes sont trop contraignantes, elles ne respectent pas la façon naturelle de résoudre les problèmes complexes et de planifier l’activité [HayesRothHayesRoth79], et, par conséquent sont contre-productives (ce qui est fréquemment observé dans d’autres domaines de l’ingénierie). Parfois, les méthodes de conception contraignent les concepteurs, gênent leur travail. Les nouvelles approches de la conception, que ce soit en pédagogie ou ailleurs, tendent vers plus de légèreté, plus de souplesse, plus d’opportunisme et moins de contraintes. 
+En résumé, si concevoir c’est résoudre un problème, alors l’aide à la résolution de problèmes de conception peut prendre la forme : de la description d’une procédure à suivre ; de la liste des contraintes à satisfaire ; d’une liste de conseils ; d’une assistance à l’évaluation de la solution. Mais partager une représentation du but et de l’espace problème constituerait l’enjeu majeur du processus de conception coopérative [BadkeSchaubFrankenberger02]. Ce partage pourrait renforcer le sentiment d’appartenance à l’équipe de conception, autre caractéristique importante du travail de conception [Dameron02]. Ainsi, nous voudrions dans cet article contribuer à une ergonomie de la conception d’un dispositif de formation à distance utilisant les TIC en proposant une aide à l’élaboration et au partage d’une même représentation du but et du processus, tout en les contraignant le moins possible. 
+2.1. Hypothèses pour l’amélioration du travail des concepteurs 
+Nous faisons l’hypothèse qu’un bon moyen de partager une représentation commune d’un but et d’un processus consiste à se poser des questions communes à leurs propos. En effet, pour partager une représentation d’un but et d’un processus, il faut d’abord prendre conscience (par soi-même ou par consigne) de la nécessité de partager cette représentation et l’élaborer en commun [deTerssacMaggi96]. En outre, un nombre conséquent de travaux (en pédagogie, prévention, ingénierie, etc.) montrent qu’en situation de résolution de problème la prise de conscience que l’on manque de connaissances pour résoudre le problème, ou même "qu’il y a un problème", n’est pas du tout automatique [Bastien87]. Pis, il faudrait déjà avoir des connaissances certaines ou avoir déjà rencontré le problème pour réaliser cette prise de conscience. Moins on a de connaissances dans un domaine et moins on est disposé à prendre conscience que telle situation relevant de ce domaine est un problème [JooGrable01]. Pour partager des connaissances et construire ensemble de nouvelles solutions, il faut partager des incertitudes. 
+Précisons que notre démarche, à la fois ergonomique et organisée autour de questions adressées à l’équipe de conception, n’est pas originale. [Lohr00] dans un passionnant article intitulé Designing the instructional interface a déjà proposé une approche similaire, qu’elle restreint malheureusement aux aspects d’utilisabilité des dispositifs de formation. Notre approche se veut plus large que celles centrées sur les problèmes d’utilisabilité ou d’interface. Elle concerne la conception et non la réalisation. Elle défend une approche empirique et non théorique de la rationalité [Searle01], c’est-à-dire une approche qui ne connaît aucune façon préalable de mettre des moyens optimaux au services de buts. L’ingénierie pédagogique ne dispose selon nous d’aucune solution théorique satisfaisante (constructiviste, interactionniste, béhavioriste, cognitiviste, etc.) mais seulement de solutions locales et conjoncturelles, comme les ingénieries en général. Nous ne comprenons pas l’ingénierie pédagogique qui revendique l’appartenance à un courant ou la référence à un gourou (par ex. [Shayer03] ni les conceptions non cumulatives des sciences de l’éducation. 
+
+2.2. Hypothèses pour l’amélioration du travail des utilisateurs 
+Pour ce qui est de l’ergonomie centrée sur les utilisateurs, notre approche reprend [Sweller99], [Mayer01], [TricotAl00], etc.). Pour améliorer le travail des utilisateurs du dispositif de formation, il faudrait : (a) décrire la situation d’apprentissage proposée (son but, le matériel qu’elle propose) ; (b) décrire les activité mentales impliquées dans le traitement de cette situation ; (c) décrire les connaissances possédées par les individus qui traitent cette situation ; (d) trouver dans la littérature empirique les moyens qui existent pour faciliter la mise en œuvre de ces activités cognitives sans changer le but d’apprentissage ; (e) appliquer ces moyens à cette situation en les adaptant aux buts et aux caractéristiques cognitives de la situation. Nous renvoyons le lecteur aux références citées ci-dessus pour des exemples de mise en œuvre de cette approche. 
+
+
+3. Quelques questions pour une équipe de conception 
+Nous adressons maintenant sept questions principales à l’équipe de conception. Ces questions réfèrent à des aspects convenus du travail de conception dans le domaine de l’ingénierie pédagogique : nous ne prétendons pas apporter quoi que ce soit au contenu du travail des concepteurs mais bien à son organisation cognitive. Nous défendons la position selon laquelle la majorité des problèmes de conception à résoudre en formation à distance sont non spécifiques : ils sont majoritairement les mêmes en formation présentielle. Les problèmes spécifiques concernent la régulation du processus d’apprentissage, l’acceptabilité du dispositif et la communication entre les acteurs de la formation. Le lecteur trouvera peut-être que les questions que nous adressons trahissent notre expérience un peu éclectique de concepteurs et d’évaluateurs en formation professionnelle et en enseignement académique, auprès d’adolescents et d’adultes.  
+Les questions sont donc : Quel est le contexte de conception ? Quelles sont les connaissances à acquérir ? Comment faire acquérir les connaissances ? Comment faire utiliser le dispositif ? Comment faire communiquer les acteurs de la formation ? Comment représenter les connaissances et les fonctionnalités ? Comment évaluer le dispositif ? Chaque question est déclinée en sous-questions. Chaque question est justifiée par l’enjeu qu’elle représente. Au moins une référence bibliographique est donnée à chaque question : le lecteur y trouvera des éléments de réponse à la question posée. Par réponse nous n’entendons pas une solution de conception clé en main. Nous entendons un exposé des effets de quelques solutions possibles dans quelques situations possibles. Dans la mesure du possible, les références concernent plusieurs résultats empiriques, plusieurs solutions, voire des synthèses de résultats. 
+3.1. Quel est le contexte de conception ? 
+Définir le contexte de conception revient à répondre à quelques questions générales relatives aux finalités du dispositif de formation à concevoir, mais aussi aux ressources et aux contraintes qui pèsent sur le processus de conception. La finalité du dispositif peut être définie comme la mise en relation des buts d’apprentissage, des apprenants et de leurs motifs, et des conditions dans lesquelles ils vont apprendre. 
+3.1.1. Qui sont les apprenants ? 
+Un dispositif d’apprentissage est strictement relatif aux apprenants. Ce sont eux qui apprennent en mettant en œuvre des activités et des stratégies, en fonction de leurs connaissances, de leurs motifs et des contraintes qui pèsent sur eux. Si on propose un contenu que les apprenants connaissent déjà ou trop éloigné de leurs connaissances actuelles, alors ils n’apprennent pas [KalyugaAl03]. 
+Quelles sont les connaissances antérieures des apprenants dans le domaine de contenu ? Les apprenants sont-ils des débutants dans le domaine de connaissances ou au contraire sont-ils déjà experts ? Sont-ils familiers avec les savoirs, savoir-faire, méthodes qui vont être abordés ? Sont-ils familiers avec la façon dont les connaissances sont représentées ? 
+Quelles sont les stratégies d’apprentissage utilisées par les apprenants, voire leur style ? 
+Quelles sont les connaissances antérieures, les expériences, des apprenants dans le domaine des TIC et de la formation à distance ? 
+Quels sont les motifs des apprenants pour suivre cette formation ? 
+
+3.1.2. Dans quelles les conditions apprennent-ils ? 
+Il faut anticiper autant que possible les contraintes organisationnelles de la formation à distance avant de concevoir le dispositif technique, celui-ci devant être adapté à l’organisation (et non la définir). Si les apprenants ne peuvent pas travailler et accéder au dispositif de formation, ils n’apprendront pas [Amiel02]. 
+Quelles sont les contraintes matérielles qui pèsent sur les apprenants ? 
+Quelles sont les contraintes spatiales ? 
+Quelles sont les contraintes temporelles ? 
+Est-ce qu’un tuteur sera présent ou disponible pour aider l’apprenant ? Quelle sera (quantitativement et qualitativement) cette disponibilité ? Mais aussi : quels autres apprenants seront accessibles ? Sera-t-il possible de réaliser des travaux en commun, d’échanger, de demander de l’aide ? 
+Quels documents techniques et quels documents de formation seront accessibles à l’apprenant ? Dans quelles conditions ? Quand ? 
+
+3.1.3. Pourquoi conçoit-on une formation et un dispositif distants ? 
+Quand on intervient comme concepteur pour une institution, voire sa propre institution, il vaut mieux avoir une idée claire des objectifs et des enjeux du travail de conception [Horton00]. Sinon, ces objectifs et ces enjeux fonctionneront comme autant de contraintes ou critères d’évaluation implicites. 
+La formation et le dispositif distants sont-ils conçus pour des motifs financiers ? 
+Pour concerner plus d’apprenants ? 
+Pour répondre mieux aux contraintes des apprenants ou de l’institution, en termes d’emploi de temps, de disponibilité, de déplacements, etc. ? 
+
+3.1.4. Dans quelles conditions va se dérouler la conception ? 
+Le dernier élément du contexte de la conception concerne les conditions du travail de conception. Le travail de conception se déroule dans un contexte qu’il est important de connaître avant que le processus de conception lui-même ne débute. Il est devenu banal de dire que cette phase amont du processus, quand elle est réalisée avec sérieux, évite les grandes erreurs de conception et peut raisonnablement conduire à l’arrêt du projet ou à sa redéfinition [NanardNanard98]. 
+Quelles sont les contraintes et les ressources temporelles, financières et matérielles qui pèsent sur la conception ? Comment s’organise la communication entre les acteurs de ce processus ? 
+Quelles compétences ou métiers sont requis ou disponibles ? Ingénieur, donneur d’ordres, infographiste, documentaliste, programmeur, enseignant-formateur, ergonome, etc. ? 
+Qui est le chef de projet et/ou l’organisateur du travail de l’équipe ? 
+Quelle est la planification des interventions de chacun ? 
+
+
+3.2. Quelles sont les connaissances à acquérir ? 
+3.2.1. Quels sont les contenus des connaissances ? 
+Il est nécessaire de décrire les contenus des connaissances à acquérir par les apprenants sous peine de leur proposer des situations où ils vont apprendre autre chose que ce qui est visé.  
+Quelle connaissance va être construite par l’apprenant ? 
+Quel est le processus d’apprentissage qui va permettre d’atteindre ce résultat ? (il est malheureusement fréquent de confondre les deux, comme chez [JonassenWang93]. 
+Cette connaissance correspond-t-elle à des contenus institués dans une discipline scolaire ou universitaire, dans une pratique sociale de référence, dans une documentation technique, etc. ? (il est malheureusement fréquent de confondre la connaissance que l’apprenant va construire et les contenus institués correspondants, comme les didacticiens et les linguistiques nous le signalent depuis des dizaines d’années). 
+
+3.2.2. Quels sont le(s) format(s) des connaissances ? 
+La littérature sur les formats de connaissances, qu’elle soit générale, ou appliquée au domaine des apprentissages avec ordinateur, est immense [deVries01]. Rappelons avec [Anderson00] que le format de la connaissance visée implique des processus d’apprentissage différents, et que c’est à ce titre qu’il est important de les décrire. Une méta-analyse de la littérature empirique dans le domaine de la pédagogie par résolution de problèmes [DochyAl03] montre par exemple que ce type de pédagogie est sans nul doute la plus efficace quand il s’agit d’acquérir des savoir-faire et des méthodes. Mais donner des problèmes à résoudre quand on vise un savoir conceptuel n’est pas forcément la meilleure solution, notamment si le domaine conceptuel est vaste. 
+La connaissance à construire par l’apprenant est-elle un savoir-faire destiné à devenir un automatisme ? Par exemple un geste technique ou une table de multiplication. 
+La connaissance à construire par l’apprenant est-elle une méthode, c’est-à-dire savoir-faire devant rester contrôlé ? Par exemple une méthode de diagnostic ou une procédure de résolution d’incidents. 
+La connaissance à construire par l’apprenant est-elle un savoir conceptuel, c’est-à-dire une notion, reliée à d’autres, munies d’attributs et qui permet de comprendre le monde ? Par exemple la notion de force ou la Loi d’Ohm. 
+La connaissance à construire par l’apprenant est-elle un savoir technologique ? Par exemple le multiplexage ou un firewall. 
+
+3.2.3. Quel est le degré de nouveauté ? 
+Une connaissance à acquérir doit pouvoir être décrite relativement aux connaissances antérieures de l’apprenant. Une littérature très conséquente montre que les caractéristiques de la situation d’apprentissage à concevoir sont différentes selon ce degré de nouveauté. Par exemple, une connaissance radicalement nouvelle est mieux acquise si la situation présente de la redondance que si elle n’en présente pas. Mais cette même situation ne devra pas présenter de redondance si les apprenants possèdent déjà la connaissance et qu’il s’agit d’une simple révision [KalyugaAl03]. 
+Cette connaissance à acquérir est-elle radicalement nouvelle ? 
+Est-elle reliée à une connaissance antérieure (avec modification de cet existant ou non) ? 
+Relève-t-elle de la révision (du renforcement, de l’automatisation) ? 
+Un objectif de formation peut ainsi être décrit selon son degré de nouveauté et selon son format.  
+
+3.2.4. Quelles sont les relations entre les connaissances?  
+L’ensemble des connaissances à acquérir représente différentes composantes qui sont à identifier et à relier afin d’anticiper autant que faire se peut les parcours d’apprentissages possibles, souhaités, ou au contraire non souhaités. La description des connaissances par l’identification de leurs composantes et des liens qui les unissent permettent d’aboutir à un modèle conceptuel voire une ontologie du contenu à transmettre [AzouaouAl03]. Signalons que cette question n’est pas toujours pertinente. Les liens entre connaissances ou la spécification des connaissances peut aller de soi, préexister, ou au contraire n’avoir aucun intérêt, dans des domaines microscopiques par exemple.  
+Est-il possible ou pertinent de spécifier la ou les connaissances que l’apprenant va construire ? Par exemple, un savoir conceptuel peut être un principe, une théorie, une hypothèse, etc.  
+Quels sont les liens entre ces connaissances ? Ont-il une fonction d’explication, de causalité, d’illustration ("exemple de"), de rappel ("pré-requis à"), de contradiction, etc. ? 
+
+3.2.5. Quelle est l’architecture générale ? 
+Ce modèle conceptuel d’organisation des contenus de formation est à traduire par une architecture générale qui aura une incidence sur le processus de compréhension et de mémorisation [Fastrez02]. Les travaux empiriques classiques de [Dillon91] ou [RouetAl96] ont montré qu’un même contenu structuré différemment n’est pas compris ni appris de la même manière. Décrire l’architecture semble particulièrement crucial dans le domaine des apprentissages par explication. 
+L’architecture générale est-elle arborescente, en réseau, linéaire ? [Mohageg92] 
+L’architecture générale est-elle rationnelle, c’est-à-dire organisée selon des principes indépendants du contenu, ou fonctionnelle, c’est-à-dire organisée en fonction des buts qu’elle permet d’atteindre ? [TricotBastien96] 
+L’architecture générale est-elle simple, c’est-à-dire qu’elle contient peu d’éléments présentant peu de liens entre eux, ou complexe, c’est-à-dire quelle contient de nombreux éléments présentant de nombreux liens entre eux ? [JacobsonArchodidou00] 
+
+3.2.6. Quel est le grain des connaissances ? 
+L’organisation des contenus implique par ailleurs une définition précise de la granularité de traitement. Si l’on va trop dans le détail, trop profondément, ou au contraire pas assez, on peut passer à côté de l’apprentissage visé. Cette granularité est définie en fonction de contraintes techniques mais surtout en fonction des objectifs de formation et du niveau de connaissances des apprenants [Tricot95]. 
+Quel est le niveau de détail choisi pour traiter les connaissances ? 
+Quelle est la taille de chaque élément de connaissance représenté ? 
+
+3.2.7. Quels sont les processus d’apprentissage envisagés ? 
+Si apprendre est une activité, et si concevoir un dispositif d’apprentissage consiste à favoriser la mise en œuvre de cette activité, alors le concepteur peut se demander quels processus d’apprentissage vont permettre à l’apprenant de construire ses connaissances. [Mayer01], [RenklAtkinson03], [SwellerCooper85]. 
+L’apprenant va-t-il produire des analogies, c’est-à-dire utiliser dans un contexte B (non connu de l’apprenant) une connaissance habituellement mobilisée dans un contexte A (connu de l’apprenant) ? [Gineste97]. 
+L’apprenant va-t-il devoir comprendre, c’est-à-dire élaborer une représentation mentale d’une situation ou d’un concept (on parle alors de conceptualisation) ? 
+L’apprenant va-t-il répéter, réutiliser une connaissance qu’il possède déjà dans un contexte identique ? 
+L’apprenant va-t-il produire des hypothèses ? 
+L’apprenant va-t-il procéduraliser, c’est-à-dire transformer une connaissance de forme déclarative (savoir) en forme procédurale (savoir-faire) ? [Anderson00]. 
+L’apprenant va-t-il compiler, c’est-à-dire utiliser consécutivement deux savoir-faire utilisés habituellement de façon séparée? [Anderson00]. 
+L’apprenant va-t-il procéder par essais et erreurs ? 
+
+
+3.3. Comment faire acquérir les connaissances ? Le scénario didactique. 
+Le scénario didactique correspond à la manière dont les apprenants vont, en principe, acquérir les connaissances. Il est donc au service des connaissances. Il est plus ou moins intégré au dispositif de formation à distance. On peut en effet concevoir un scénario didactique comme a priori hybride : une partie est interne au dispositif distant, l’autre externe (réalisée en présentiel).  
+Une littérature importante a été consacrée depuis les années 1960 à trois visions différentes du scénario didactique dans les dispositifs d’apprentissage assistés par ordinateur. 
+Selon la première vision, le scénario vise à interpréter les actions et les réponses de l’apprenant, pour diagnostiquer l’état des connaissances de ce dernier (ou l’état de l’apprentissage en cours) et pour proposer des informations en retour (solution, guidage, explication, etc.). "Mais pour pouvoir maintenir une interaction pertinente en permettant une initiative réelle à l’élève, la machine doit avoir la capacité de prendre en compte ses intentions et les conceptions qui sous-tendent ses actions" [Balacheff94], p. 29. Ce qui, comme on le sait, n’est pas sans poser d’immenses problèmes, dont la recherche en intelligence artificielle n’a pas donné toutes les solutions. 
+Selon la seconde vision, le scénario présente un nombre limité de choix possibles, un choix ayant une conséquence prévue (il n’y a pas d’interprétation). À chaque état de l’interaction entre l’apprenant et l’application informatique, l’apprenant peut cliquer sur n boutons, soit dans un dispositif de type QCM, soit dans un dispositif de type hypermédia. Cette vision du scénario didactique présente deux types d’écueils bien connus. Un nombre trop limité de choix conduit à un apprentissage très guidé, peu intéressant pour l’apprenant et contraignant considérablement les apprentissages possibles. Un nombre trop important de choix conduit à des difficultés de compréhension et de navigation [Tricot95]. 
+Selon la troisième vision, celle des micromondes, le scénario proposé à l’élève consiste à construire et à manipuler des objets formels du domaine et des objets concrets du monde réel. Ces environnements peuvent fournir une rétroaction qui n'a pas a priori d'équivalent dans la réalité. Des scénarios didactiques peuvent exister en dehors de l’environnement informatique. C’est le cas, par exemple avec l’outil d’enseignement à distance TéléCabri (qui comprend des tâches didactiques, des régulations, etc.) [SouryLavergne98]. 
+Ces trois visions sont très différentes entre elles, et, surtout, difficilement comparables. De façon générale, comparer deux scénarios didactiques est souvent peu pertinent. Ainsi, la conception du scénario didactique est difficile, la littérature ne fournissant pas au concepteur de solutions clés en main. Selon nous, un scénario didactique présente cinq caractéristiques (soit autant de problèmes de conception à résoudre) : la présentation des objectifs d’apprentissage ; une ou plusieurs tâches d’apprentissage ; une ou plusieurs progressions ; un dispositif de régulation de l’activité de l’apprenant ; un dispositif d’évaluation de l’apprentissage. 
+3.3.1. Comment présenter les objectifs? 
+Cette étape a un impact très direct sur la motivation des personnes formées par une prise de conscience de l’utilité ou de l’inutilité de la formation [Schanck02]. 
+La présentation des objectifs est-elle centrée sur les usagers afin de présenter les compétences qui vont être acquises, les problèmes que ces nouvelles compétences vont résoudre, les développements (personnels) qu’elles vont permettre ? 
+La présentation des objectifs est-elle centrée sur l’institution, comme une entreprise qui met en place un plan de formation continue, afin de présenter le projet ou les problèmes de l’institution qui vont être traités par la formation ? 
+
+3.3.2. Quelles sont les tâches d’apprentissage ? 
+La catégorisation des tâches d’apprentissage met généralement en relation la tâche et la connaissance à acquérir [ElshoutMohrAl99]. Ainsi, le concepteur peut-il envisager de construire une table de correspondance. Nous avons construit notre propre table de correspondance (tableau 1), qui n’est évidemment pas à prendre en modèle.  
+Notre tableau veut simplement rappeler que pour acquérir une connaissance, un apprenant doit réaliser une tâche, fut-elle aussi "simple" que comprendre une explication, une illustration ou s’entraîner à réaliser un geste technique. Elle présente aussi une description des objectifs d’apprentissage qui dépend du format de connaissance à acquérir (§ 3.2.2) et du degré de nouveauté de cette connaissance pour l’apprenant (§3.2.3). Cette table n’a qu’une valeur illustrative. Chaque équipe qui voudra réaliser une telle table en élaborera une version particulière aux contenus abordés et aux apprenants, aux contextes et aux objectifs concernés. 
+
+3.3.3. Quelles sont les progressions parmi les contenus ?  
+L’architecture générale des contenus (§ 3.2.5) est mise en œuvre par l’intermédiaire d’un ensemble de tâches d’apprentissage. Ces tâches doivent être ordonnées de façon plus ou moins contraignante, linéaire, afin que l’apprenant acquière l’ensemble des connaissances visées. Tout objectif de formation peut donc être décrit à un niveau général (voilà la compétence professionnelle à créer, à améliorer) et à un niveau particulier (voilà de quels savoirs, savoir-faire, méthodes est composée cette compétence). Le dispositif de formation à distance prend alors en compte ces deux niveaux et le scénario didactique relie les étapes qui correspondent aux différents objectifs particuliers.  
+La progression est-elle totalement libre, totalement contrainte, ou intermédiaire ? Quel est le degré de guidage de l’apprenant ? [TuovinenSweller99]. 
+Degré de nouveauté Format  Nouvelle  Reliée à des connaissances antérieures  Révision  
+modifiées  non modifiées  
+Savoir-faire  Explication puis exercices ou apprentissage par imitation  Prise de conscience (remise en cause) puis résolution de problèmes puis explication  Exercices avec leur solution, puis sans leur solution  Exercices répétés, entraînement  
+Méthode  Résolution de problèmes puis explication  Résolution de problèmes puis explication  Pratique régulière, projets impliquant une mise en application  
+Savoir  Explication puis  Prise de conscience  Prise de  Tâches de  
+conceptuel  illustrations  (remise en cause) puis explication  conscience puis explication  compréhension, d’explication, de résolution de problèmes  
+Savoir  Élaborer un questionnement de «à quoi ça  Prise de  Pratique régulière  
+technologique  sert» et «dans quel contexte» puis «qu’est-ce que c’est», «de quoi c’est composé» et «comment ça fonctionne».  conscience, explication, puis pratique  
+
+Tableau 1 : Quelques tâches d’apprentissage correspondant à différents objectifs de formation 
+
+3.3.4. Comment réguler l’activité de l’apprenant ? 
+La formation à distance permet, mais plus difficilement que lors de formations présentielles, une régulation des tâches. En présentiel en effet, le formateur adapte son propos, son débit, ses arguments et démonstrations aux apprenants en fonction de multiples indices verbaux ou non-verbaux produits par eux. La régulation de l’apprentissage à distance devrait pouvoir notamment prendre en compte les erreurs, les progrès, les difficultés et les intérêts de l’apprenant, ce qui n’est pas sans poser de problèmes [Oliver00]. 
+Est-ce qu’un tuteur répondra à distance aux questions, aux difficultés ? 
+Est-ce qu’un tuteur sur le lieu de travail ou à l’université répondra à distance aux questions, aux difficultés ? 
+Y aura-t-il un dispositif de régulation interne au dispositif (QCM, analyseur d’activité) ? 
+
+3.3.5. Comment évaluer les connaissances ? 
+L’entrée et la sortie de la formation doivent proposer un dispositif d’évaluation des connaissances. Les résultats communiqués très rapidement à l’apprenant révèlent entre autres les aspects positifs de l’évaluation. L’évaluation doit être fonction du format de la connaissance évaluée. Une absence d’évaluation ou une évaluation décalée par rapport aux objectifs d’apprentissage dérégule l’apprentissage et affecte généralement la motivation des apprenants [Galusha98]. 
+L’évaluation est-elle fondée sur la prescription de tâches de reconnaissance (QCM, questionnaires fermés) à l’apprenant ? 
+Sur des tâches de rappel (questions ouvertes) ? 
+Sur de la résolution de problème ? 
+Sur de la détection d’erreurs ? 
+Sur des tâches de production ? 
+En ce sens et en conclusion, le scénario didactique n’exige pas un degré d’innovation sous prétexte que l’on utilise les nouvelles technologies. En effet, il convient de distinguer innovation pédagogique et innovation technologique. Par ailleurs, le concepteur devra utiliser pleinement les ressources du document électronique pour optimiser la formation à distance. 
+
+
+3.4. Comment faire utiliser le dispositif ? Le scénario d’utilisation 
+Le scénario d’utilisation définit l’ensemble des actions possibles pour l’utilisateur au sein du dispositif de formation, selon les objectifs d’apprentissage visés par le concepteur, en répertoriant tous les accès possibles autorisés par l’architecture générale des contenus.  
+Selon notre approche, dans le domaine de l’ergonomie cognitive, il se compose de deux aspects indissociables, l’un plus orienté vers la fonctionnalité même du dispositif, l’autre la réalisation du scénario didactique. Cette interaction d’utilisation et d’apprentissage fut par ailleurs l’objet de travaux [deVries01] répertoriant le mode d’utilisation choisi - linéaire (suivant, retour, menu), exploratoire (sommaire, schémas complexes à entrées), exploration guidée (accès limités selon les parties de modules) 
+- en fonction d’enjeux didactiques. Mais encore, le scénario d’utilisation est un espace où interagissent des composantes (des parties abstraites, concrètes, des enchaînements). Bref, le scénario d’utilisation devrait être (i) cohérent en lui-même (ii) cohérent avec le scénario didactique. 
+3.4.1. Cohérence et simplicité ? Un enjeu sur le plan didactique. 
+Sur un plan purement formel, les critères de cohérence et simplicité prédominent afin de répondre à une logique interne de déplacements possibles. Derrière la trivialité de cette affirmation, est en jeu une logique implicite de déplacement. En effet, si certains travaux en ergonomie [ScapinBastien97] fournissent une classification fort utile de critères propres à garantir une interactivité de qualité, il reste encore à considérer un stock d’informations navigationnelles que l’utilisateur élabore lors de son parcours sur les différentes interfaces. En référence aux théories de l’apprentissage implicite [PerruchetNicolas98], l’on peut affirmer que certaines données relèvent d’une mémorisation implicite de données perceptives de nature procédurale. La cohérence et la simplicité corrèlent en effet deux aspects, l’un fonctionnel, identifiable par classification des parcours et des unités structurants les contenus, l’autre, à propos duquel les recherches sont loin d’être exhaustives, de nature plus implicite, renvoyant à une logique interne de prélèvement d’informations navigationnelles (visuelles et/ou verbales). 
+Quel est le niveau de profondeur et largeur de l’espace de navigation [Tricot95] ? 
+Quelle est la nature des liens textuels ? Quelle est la relation entre le type de phrases et la position spatiale dans le lien de l’information à prélever [ColombiBaccino03] ? 
+Les résultats de différents travaux en ergonomie n’englobent pas la totalité des données perceptives liées à un apprentissage procédural de la navigation. Un point de vue dans le domaine de la psychologie cognitive permet de prendre en compte des données bien plus fines. 
+
+3.4.2. Le scénario d’utilisation peut-il être implicite ? Une métaphore sera-t-elle 
+utilisée ?  
+
+Dans la pratique, les concepteurs qui ressentent ce besoin de construire une logique implicite font souvent appel à des métaphores. Une métaphore est un ensemble organisé d’actions possibles via un autre ensemble organisé d’actions possibles. Des études ergonomiques ont montré que l’utilisation de métaphores liées à un environnement socio-professionnel est efficace et utile à l’utilisateur pour installer des repères de navigation [Barrié00]. Par exemple, la métaphore des pièces où des rayons d’une bibliothèque peuvent signifier à l’utilisateur le degré de profondeur de ses déplacements (recherche générique, par thème dans une pièce, recherche spécifique sur un rayon, un ouvrage). Néanmoins, les métaphores utilisées ont des limites [Nielsen00] et l’univers de référence ne s’adapte pas toujours à une exploitation virtuelle. L’intérêt des métaphores étant d’exploiter un savoir référentiel, culturel à partir duquel, grâce à des habitus déjà élaborés, se construit une logique singulière au document.  
+Dans tous les cas, notre propos vise à défendre, non les métaphores, mais une certaine transparence des fonctionnalités de l’outil afin que l’apprenant puisse se consacrer exclusivement à l’acquisition de connaissances sans surcharge cognitive de nature procédurale tout comme, par analogie, lors d’un dialogue avec un interlocuteur dans notre langue maternelle nous occultons l’aspect grammatical pour accéder directement au sens de l’énoncé. Et si notre interlocuteur ne respecte pas certaines règles normatives, nous commençons alors à prendre conscience de problèmes qui font écran, en se plaçant au premier plan, à un accès direct et immédiat au contenu. Ainsi, un scénario d’utilisation serait, dans l’idéal, transparent pour l’utilisateur.  
+Comment concevoir et réaliser un scénario d’utilisation quasi-transparent, fondé sur un ensemble limité de fonctionnalités simples, au service de la finalité du dispositif : l’apprentissage ? 
+
+3.4.3. Comment développer une utilisation flexible et protéger les utilisateurs contre les erreurs ? 
+Les utilisateurs sont souvent sensibles à deux qualités des dispositifs informatiques : la flexibilité d’une part, c’est-à-dire la faculté du système à s’adapter à des utilisateurs différents faisant des choix différents, la protection contre les erreurs d’autre part, c’est-à-dire le fait que le système ne provoque pas d’erreurs d’utilisation, de pannes, d’impasses, etc. [ScapinBastien97]. 
+L’utilisateur disposera-t-il d’un historique de son parcours (comme cela se pratique couramment par un changement de couleurs sur le sommaire des pages déjà visitées) ? 
+Si le dispositif est un environnement de type web, l’utilisateur disposera-t-il d’un carnet de signets, disposés spatialement ou linéairement [Waterworth02] ? 
+Par ailleurs, des tests d’utilité d’un dispositif de formation initiale à distance que nous avons conduit [BardinAl03] ont pu montrer que toute erreur d’utilisation perturbe considérablement l’apprentissage. Alors que l’on sait communément que des tests rapides d’utilisabilité, par 4 à 5 utilisateurs "réels", permettent de repérer environ 95 % des erreurs d’utilisation [Nielsen00] et devraient être pratiqués avant la mise en service de chaque module de formation. Un dialogue avec l’utilisateur, par le biais de la messagerie, permet d’être informé de tout «bug» rencontré. La correction d’une erreur requiert quelques minutes pour le concepteur alors que non rectifiée, elle trouble l’apprentissage d’un nombre important d’utilisateurs, elle surcharge inutilement la tâche en cours et occasionne, si elle se répète, un manque de motivation [AmielAl02] ; ces quelques exemples s’appuient sur notre pratique d’évaluation des dispositifs de formation à distance. 
+
+
+3.5. Comment représenter les connaissances et les fonctionnalités ? L’interface. 
+La conception de l’interface regroupe des aspects différents, avec des finalités différentes. Les travaux concernant la conception collective, dont une approche en ergonomie cognitive [Visser02], demandent de prendre en compte lors de la conception les propriétés (i) du problème à résoudre (ii) les représentations et les processus de résolution mis en œuvre pour le résoudre (iii) la solution développée. En nous limitant à cet enchaînement raisonné d’un problème de conception, nous souhaitons poser le problème de la représentation de la finalité à atteindre lors de la conception de l’interface.  
+Si d’un point de vue ergonomique, l’interface est un dispositif visuel et sonore pour représenter les fonctionnalités (utilisabilité) du dispositif de formation (navigationnelles), le problème à résoudre sera envisagé comme la capacité d’un ensemble d’affordances à suggérer une action pertinente à l’utilisateur. De plus, l’interface est une configuration visuelle et sonore qui doit être perçue comme agréable, stable, facile à utiliser, etc.  
+Relativement à cette représentation de la conception d’une interface, la charte graphique sera rédigée, disponible pour tous les acteurs de l’équipe de conception et complétée lors de l’extension du dispositif de formation. Elle a alors pour objectif de répertorier tous les objets graphiques et sonores, leurs fonctions, leurs emplacements, leurs formats, leurs couleurs. Elle permet, lors de la conception de nouveaux modules de formation, de réutiliser exactement les mêmes codes d’utilisation, la même structuration de l’espace. Chaque item nouveau est inséré s’il répond à un besoin spécifique au module en question et s’il n’est pas déjà mis en forme dans un autre contexte similaire.  
+Ce travail de conception aboutit donc à une "interface abstraite" c’est-à-dire à un ensemble de décisions qui vise à uniformiser l’aspect visuel et sonore des fonctionnalités. Cette interface abstraite peut se traduire par une maquette ou un prototype qui sera repris systématiquement afin de stabiliser les outils d’utilisation. 
+3.5.1. Comment concevoir des fonctionnalités explicites et cohérentes ? 
+L’affordance est la capacité suggestive d’action d’un objet, d’un bouton, d’une forme. Elle fonctionne par analogie immédiate ou secondaire, comme la flèche vers la droite qui suggère « d’atteindre la page suivante ». L’utilisateur fait l’hypothèse a priori que le concepteur a essayé d’être pertinent lors de la conception de l’interface. L’affordance est donc la manifestation d’une sorte de contrat implicite entre le concepteur et l’utilisateur, qui, tout deux, cherchent à rendre l’interaction la meilleure possible. Si ce contrat est rompu par le concepteur, l’interaction ne fonctionne plus. Le concepteur recherche les affordances les mieux connues du public auquel il s’adresse [Boy03]. 
+La reconnaissance est le processus fondamental de fonctionnement de la mémoire et de construction du sens par l’utilisateur. L’utilisateur mémorise un code de fonctionnement, réutilise ce code lors d’une nouvelle interface graphique et l’enrichit. Cette mémorisation de l’utilisation du dispositif visuel n’est efficace que si elle est parfaitement cohérente sur la globalité du dispositif.  
+Comment indiquer l’état du système et les actions possibles ? 
+Par quels moyens va-t-on rendre la signalétique homogène et cohérente ? 
+Les relations entre les actions possibles et leur représentation sont-elles uniques et bijectives (toute action possible dans le dispositif a un résultat et un seul ; est réversible d’une façon et d’une seule ; est représentée au niveau de l’interface d’une façon et d’une seule) ? 
+
+3.5.2. Comment développer une cohésion graphique ? 
+La cohésion est maintenue par la récurrence de codes visuo-graphiques (d’utilisation, de mise en forme matérielle des textes), elle permet d’assurer une meilleure perception de la prévisibilité des tâches d’interaction, et de la prévisibilité des contenus associés à une focalisation de l’attention adéquate [ScapinBastien97]. 
+Comment garantir une stabilité visuelle récurrente d’une page-écran à une autre ? 
+Comment valoriser les contenus par des effets de structuration visuelle ? 
+On peut ensuite faire des choix esthétiques pour se distinguer visuellement et se centrer plus sur une stratégie de communication. 
+
+3.5.3. Comment structurer l’espace ? 
+L’un des premiers critères ergonomiques de [ScapinBastien97] est celui du groupement et de la distinction. La localisation, le format, les couleurs sont utilisés comme des repères. Le regroupement d’items les apparente à une même fonction, un même thème, etc. Un écran bien structuré rendra la lecture plus efficace et permettra de mieux comprendre la relation de dépendance entre les éléments. 
+Comment segmenter l’espace à l’écran pour que chaque partie soit reliée à une fonction précise ? 
+Distingue-t-on les zones activables (fonctionnalités) et les zones inertes (connaissances) ? 
+Comment établir une structure visuelle de l’écran stable et unifiée ? 
+Comment organiser les types d’informations (titres, sous titres, légende, etc.) selon une hiérarchie spatiale ? 
+Comment identifier l’institution de formation  à travers le design et la cohésion visuelle ? Comment rendre compte d’une image de marque de cette institution ? 
+La mise en forme matérielle du texte n’a pas que des incidences fonctionnelles, elle en a aussi sur les stratégies de lecture et la compréhension [Virbel89]. 
+
+3.5.4. Comment représenter les connaissances pour qu’elles soient acquises ? 
+Ainsi, pour représenter des connaissances, le concepteur dispose de quelques formats classiques : textes, images, sons, animations, simulations. Ces formats testés sont en quelque sorte des préconisations pour une lecture optimale sans prendre en compte le contenu traité mais le degré d’attention possible pour une lecture à l’écran multimodale. 
+Quelle va être la mise en forme matérielle du texte ? Quels vont être les choix de police, couleur de police, pas, caractères spéciaux, énumérations, longueurs de textes, fenêtres escamotables, etc. ? [CaroBétrancourt98]. 
+Quelles images vont être utilisées ? Avec quelles fonctions (illustrative, descriptive, etc.) et selon quelles modalités de disposition vis-à-vis des textes ? [TardieuGyselink03]. Comment permettre à l’utilisateur que son attention ne soit pas partagée entre le texte et l’image ? 
+Quels sons vont être utilisés ? Avec quelles fonctions, avec quelles relations avec les textes et les images ? [MorenoMayer00], [TindallFordAl97]. 
+Quelles animations vont être utilisées ? Avec quelles fonctions, pour représenter quels contenus ? [Morrison02]. Les présentations audiovisuelles seront-elles simultanées ou séquentielles ? [MayerMoreno02]. Ce qui ne sera pas animé est-il secondaire ? [Lowe03]. 
+Les simulations, la réalité virtuelle vont-elles être utilisées ? Pour représenter quels contenus ? [AntoniettiLantoia00], [VinceTiberghien00]. Avec quel degré de réalisme ? [Waterworth02]. 
+Ces différents médias seront-ils intégrés, interférents, redondants ? En fonction de quels apprenants ? [KalyugaAl00], [MorenoMayer02]. 
+
+3.5.5. Comment être simple et concis ? 
+L’interface prescrit des actions minimales. Concevoir une interface simple et concise est d’autant plus difficile que le résultat est, au bout du compte, invisible. Le mode de lecture de l’espace textuel peut être séquentiel et proposer une vue synoptique. Si la logique hypertextuelle est privilégiée, les unités d’informations sont décomposées, courtes, consultables à la carte et offrent une diversité de sources. Néanmoins, le fil de la lecture est souvent interrompu et génère une surcharge cognitive. Contrairement, le mode de lecture de la page linéaire préserve la chronologie, évite de décontextualiser l’information mais il n’offre pas de vision globale d’une unité de sens, et pas de choix de consultation différents [Nielsen00]. 
+L’un ou l’autre est à privilégier selon le contenu et à définir dans la charte graphique. Les recommandations sont émises en fonction de tel ou tel type de connaissance à acquérir afin d’uniformiser la mise en forme matérielle surtout lorsque les contenus ou modules proviennent d’auteurs différents. Il est donc nécessaire de classer les types de contenus possibles et d’adapter une mise en forme spécifique en fonction des apprentissages souhaités. 
+
+
+3.6. Comment faire communiquer les acteurs de la formation ? Le scénario de communication 
+Dans la formation à distance, la communication est détériorée par rapport à une situation de formation présentielle. Cette détérioration peut être partiellement compensée par une plus grande disponibilité, une plus grande précision, plus d’explicitation. 
+3.6.1. Quel est le rôle de chacun ? 
+Une définition précise des rôles (apprenant, concepteur, enseignant, tuteur, modérateur, informateur, etc.) dans une situation d’enseignement à distance [PaquetteAl97] permet en effet de gérer et d’anticiper quelques difficultés rencontrées.  
+Par exemple, un problème d’utilisation qui perturbe l’apprentissage sera transmis au tuteur par l’apprenant et dirigé vers le concepteur (ou développeur) pour rectification. Un problème de compréhension d’un contenu sera soumis à un enseignant, traité et renvoyé au concepteur pour approbation, etc. 
+
+3.6.2. Qui communique avec qui et dans quel sens ? 
+La communication, même en présentiel, est fondée sur des interactions verbales [Vion92] qui construisent un échange dynamique et en construction [Brassac01]. Dans la communication à distance, les réajustements, explicitations qui assurent une co-construction conjointe du sens ne sont pas toujours effectives. Pour pallier cette difficulté, il faut alors avoir une représentation juste de celui avec qui on communique (ses besoins, ses attentes...) et préciser quelques autres points que nous détaillons ci­dessous. 
+
+3.6.3. Quelles communications sont publiques ? Lesquelles sont privées ?  
+Quelques recherches, comme celle de [FoucaultAl02], commencent à montrer l’importance des communications privées dans un dispositif de formation à distance. Les apprenants échangent leur adresse électronique ou leur numéro de téléphone, et, à l’intérieur ou à l’extérieur du dispositif de formation, communiquent entre eux sur des questions relatives à la formation ou non. Ces réseaux d’accointances, plus ou moins informels, d’une durée de vie parfois limitée, mettent en évidence l’importance des communications privées et publiques dans les dispositifs de formation à distance. Le concepteur doit sans doute veiller à clairement définir ces deux espaces de communication. 
+
+3.6.4. Quel est le moment et la durée des communications ? Lesquelles seront synchrones et lesquelles seront asynchrones ? 
+La conception ne doit probablement pas réglementer tous les aspects de la communication, loin s’en faut. Il semble en revanche crucial de bien définir la disponibilité des tuteurs (voire plus largement des formateurs). Un contrat de communication classique définit cette disponibilité en termes de moment (par exemple de 8h à 9h), de fréquence (par exemple tous les jours) et de délai ou durée (réponse immédiate, réponse sous 24 heures, etc.). Cette disponibilité peut être réalisée via le téléphone, la messagerie électronique voire le présentiel. Cet aspect de la formation n’entre généralement pas dans les coûts de conception ou de réalisation, mais peut représenter une part très lourde du budget global. 
+Par ailleurs, les TIC, par exemple les forums, permettent une flexibilité et une évolution de la situation de communication. Certaines expériences de formation à distance ont révélé que les étudiants, au fur et à mesure de leur formation, détournent l’usage du forum, consacré initialement à une communication du formateur vers les étudiants, en espace coopératif [Zangerlu02]. En quelques mois, l’espace de parole occupé à 80 % par le formateur et à 20 % par les étudiants s’inverse et est utilisé pour 80 % par les étudiants et 20 % par le formateur.  
+
+3.6.5. Quel est le contenu des communications ? 
+Finalement, les dispositifs de formation à distance, pour pallier les difficultés qu’implique l’impossibilité d’être "co-présents" et de résoudre bien des problèmes de façon informelle, mettent en place des dispositifs de communication assez complets. Ces communications peuvent concerner : les contenus de formation et les apprentissages ; l’utilisation du dispositif et les problèmes techniques ; la communication interpersonnelle de type "privée". 
+
+
+3.7. Comment évaluer le dispositif ? 
+3.7.1. Quand évaluer ? 
+L’équipe des concepteurs procède au cours du processus de conception à une évaluation plus ou moins formalisée du dispositif. En fin de processus, par exemple quand la première maquette est disponible, une évaluation plus formalisée est réalisée. Les résultats de ces évaluations sont injectés dans le processus de conception, modifiant celui-ci.  
+
+3.7.2. Quoi évaluer ? 
+Selon nous, l’évaluation doit porter sur les trois dimensions, l’utilité, l’utilisabilité et l’acceptabilité, que nous avons définies au début de l’article. Cette évaluation peut être réalisée par inspection ou de façon empirique. 
+
+3.7.3. Avec quelle méthode ? 
+L’évaluation par inspection est réalisée par un « expert », qui applique de façon plus ou moins explicite des critères d’évaluation. Elle peut aussi être réalisée par un non-spécialiste à l’aide de grilles d’évaluation. 
+L’évaluation empirique, quant à elle, consiste à interpréter les performances des usagers, à qui l’on prescrit une tâche, et plus généralement à interpréter leurs comportements, attitudes, opinions.  
+Nous admettons que ces deux types d’évaluation sont strictement distincts et complémentaires. L’évaluation par inspection permet de repérer rapidement des erreurs grossières et de diagnostiquer «pourquoi» tel ou tel aspect du dispositif de formation à distance est défaillant. L’évaluation empirique permet de voir moins rapidement l’ensemble des erreurs mineures et majeures, et de diagnostiquer ce qui ne va pas dans le dispositif de formation à distance, sans nécessairement en expliquer les raisons. Les trois dimensions de l’évaluation (utilisabilité, utilité, acceptabilité) se prêtent à ces deux types d’approches (par inspection, empirique). Nous renvoyons le lecteur à [TricotAl03b] pour une description de cette approche de l’évaluation, qui est disponible sur le web. Nous ne la développons pas ici. 
+
+
+
+4. Conclusion 
+Dans cet article, nous avons défendu une approche ergonomique de la conception de dispositifs de formation à distance utilisant les TIC, c’est-à-dire une approche qui vise à améliorer le travail des concepteurs et des utilisateurs de ces dispositifs. Cette approche s’inscrit dans le champ de l’ingénierie pédagogique et, plus précisément, dans le courant de l’ingénierie cognitive en pédagogie [Paquette02], [Tricot03]. Nous avons essayé de répondre à deux questions. Comment améliorer le processus de conception ? Comment aboutir à un dispositif qui facilitera et rendra plus efficace l’activité mentale des apprenants ? A la première question, nous avons répondu qu’il fallait sans doute proposer aux concepteurs une aide à l’élaboration et au partage d’une même représentation du but et du processus de conception, tout en les contraignant le moins possible. A la seconde question, nous avons répondu qu’il existait dans la littérature empirique des résultats qui viennent apporter des réponses aux problèmes d’apprentissage et d’utilisation avec ces dispositifs de formation à distance. Nous avons proposé une liste de questions qui devrait aider les concepteurs à élaborer ensemble une représentation du but et du processus de conception. Nous avons aussi proposé quelques références bibliographiques où le lecteur trouvera des exemples de résultats empiriques pouvant apporter des solutions de conception. 
+Cette articulation entre ergonomie, formation à distance et psychologie des apprentissages veut montrer qu’il existe de très nombreuses connaissances utiles aux concepteurs, mais que ces connaissances sont majoritairement ponctuelles et très dépendantes de la situation d’apprentissage, de son objectif, de son domaine de contenu, de ses apprenants. Il faudrait plutôt apprendre à capitaliser et à utiliser ces connaissances, évaluer en quoi elles améliorent effectivement le travail des concepteurs et des utilisateurs, plutôt que d’inventer encore de nouvelles méthodes. 
+Notre approche présente des limites importantes. 
+La plus importante est que nous n’avons aucune preuve empirique que notre approche fonctionne, qu’elle aide effectivement les concepteurs. Tout juste pouvons-nous témoigner d’une expérience de formateurs en ingénierie pédagogique, ayant "testé" notre approche sur des équipes venues se former dans notre institut. Il semble que quelques équipes (elles sont rares) aient adopté notre démarche. Contrairement à d’autres ingénieries (architecture, génie logiciel par exemple), notre problème en France n’est pas de proposer des approches souples de la conception à des équipes qui ne supportent plus les méthodes rigides. Notre problème est de faire découvrir à des équipes qui fonctionnent de façon artisanale qu’elles peuvent organiser leur travail, gagner du temps et être plus efficaces.  
+La seconde limite réside dans le faible nombre de références bibliographiques proposées. Les références empiriques en psychologie des apprentissages, en psychologie cognitive, en ergonomie, en didactique, etc. utiles au travail des concepteurs se comptent par milliers. Il faudrait réaliser un travail d’indexation de ces travaux, pour permettre de trouver des réponses précises et valides à des problèmes précis. C’est ce qu’ont fait certaines équipes dans certains des domaines que nous avons abordés. Dans le domaine des interfaces homme-machine par exemple, il existe les Novafiches http://www.amoweba.com/fr/novafiches.php qui sont payantes. Dans le domaine des relations entre images et textes, il existe la formidable revue de littérature de [Reinwein98], dans le domaine des hypermédias, celle de [DillonGabbard98], dans le domaine de la pédagogie par résolution de problème celle déjà mentionnée de [DochyAl03]. Nous nous efforçons de recenser ces méta-analyses, mais sommes absolument incapables d’en rendre compte dans l’espace d’un article. Indexer ces résultats relève sans doute plus de la conception d’une base de données que de la rédaction d’articles ou de manuels. 
+Ainsi notre article doit être considéré comme une pétition de principe et uniquement cela. Tout juste prétend-t-il à une certaine exhaustivité des questions posées. Des années de travail seront nécessaires à notre équipe pour développer l’approche défendue ici.  
+Remerciements 
+Les auteurs tiennent à remercier les experts anonymes de la revue pour la grande qualité de leur travail, ainsi que les membres de l’équipe de recherche technologique 34 "hypermédias et apprentissages" qui ont fourni la matière première de cet article : Jean-François Camps, Gaël Bardin, Gladys Lutz, Agnès Morcillo et Alban Amiel. 
+
+
+Bibliographie 
+[AinsworthAl98] 
+Ainsworth, S., O’Malley, C., et Wood, D. (1998). There is more than one way to solve a problem: evaluating a learning environment that supports the development of children’s multiplication skills. Learning et Instruction, 8(2), 141-157. 
+[AmielAl02] 
+Amiel, A., Camps, J.-F., Lutz, G., Plégat-Soutjis, F., et Tricot, A. (2002). Acceptabilité de Form@lion. (Rapport d’étude CERFI). Toulouse : IUFM de Midi-Pyrénées. 
+[Anderson00] 
+Anderson, J.R. (2000). Learning and memory, an integrated view (2nd ed.). New York: Wiley. 
+[AntoniettiLantoia00] 
+Antonietti, A., et Lantoia M. (2000). To see a painting versus to walk in a painting: An experiment on sense-making through virtual reality. Computers and Education, 34, 213-233. 
+[AzouaouAl03] 
+Azouaou, F., Desmoulins, C., et Mille D. (2003). Formalismes pour une mémoire de formation à base d’annotations : articuler sémantique implicite et explicite. In C. Desmoulins, P. Marquet et D. Bouhineau (Eds). Environnements informatiques pour l’apprentissage humain (pp. 43-54). Paris : ATIEF - INRP. 
+[BadkeSchaubFrankenberger02] 
+Badke-Schaub, P., et Frankenberger, E. (2002). Analysing and modelling cooperative design by the critical situation method. Le Travail Humain, 65, 293-314 
+[Bainbridge93] 
+Bainbridge, L. (1993). Planning the training of a complex skill. Le Travail Humain, 56(2/3), 211-232. 
+[Balacheff94] 
+Balacheff, N. (1994). Didactique et intelligence artificielle. Recherches en didactique des mathématiques, 14(1/2), 9-42. 
+[Bardin03] 
+Bardin, G., Plégat-Soutjis, F., Tricot, A., Camps, J.-F., et Frède V. (2003). Évaluation ergonomique et pédagogique de l’Université En Ligne. (Rapport d’étude ER 34). Toulouse : IUFM de Midi-Pyrénées. 
+[Barrié00] 
+Barrié, G. (2000). Internet, clefs pour la lisibilité, se former aux nouvelles exigences de l’hypermédia. Paris : ESF.  
+[Bastien87] 
+Bastien, C. (1987). Schèmes et stratégies dans l’activité cognitive de l’enfant. Paris : PUF. 
+[Bonnardel95] 
+Bonnardel, N. (1995). L’évaluation dans les activités de conception : Vers une assistance ergonomique. Psychologie Française, 40(1), 99-110. 
+[Boucheix03] 
+Boucheix, J.-M. (2003). Ergonomie et formation. Approche d’ergonomie cognitive des apprentissages en formation professionnelle. Psychologie Française, 48(2), 17-34. 
+[Boy03] 
+Boy, G. (2003). Introduction à l’ingénierie cognitive. In G. Boy (Ed.), L’ingénierie cognitive : IHM et cognition (pp. 23-51). Paris : Hermès. 
+[Brassac01] 
+Brassac, C. (2001). L’interaction communicative entre intersubjectivité et interagentivité. Langages, 144, 39-57. 
+[Cahour02] 
+Cahour, B. (2002). Décalages socio-cognitifs en réunions de conception participative. Le Travail Humain, 65(4), 315-339. 
+[CaroBétrancourt98] 
+Caro, S., et Bétrancourt, M (1998). Ergonomie de la présentation des textes sur écran : guide pratique. In 
+A. Tricot et J.-F. Rouet (Eds.), Les hypermédias, approches cognitives et ergonomiques. (pp. 123-137). Paris : Hermès. 
+[Chevallier03] 
+Chevallier, A. (2003). Effet du niveau d’expertise des concepteurs sur la prise en compte de contraintes et sur la qualité ergonomique de maquettes de sites Web. Le Travail Humain, 66(2),127-160. 
+[ColombiBaccino03] 
+Colombi, T., et Baccino, T. (2003). Le rôle de la mise en page et de la structure syntaxique dans la sélection des liens hypertextuels. Le Travail Humain, 66(1), 45-64. 
+[Dameron02] 
+Dameron, S. (2002). La dynamique relationnelle au sein d’équipes de conception. Le Travail Humain, 65(4), 51-73 
+[Darses02] 
+Darses, F. (2002). Modéliser et outiller les activités coopératives de conception », Le Travail Humain, 65(4), 289-292. 
+[deTerssacMaggi96] 
+de Terssac G., et Maggi B. (1996). Autonomie et conception. In G. de Terssac et E. Friedberg (Eds.), Coopération et conception (pp. 243-266). Toulouse : Octarès.  
+[deVries01] 
+de Vries E. (2001). Les logiciels d’apprentissage, panoplie ou éventail ? Revue Française de Pédagogie, 137, 105-116. 
+[DennenBranch95] 
+Dennen, V.P., et Branch, R.C. (1995). Considerations for designing instructional virtual environments. Selected readings from the Annual Conference of the International Visual Literacy Association, Chicago, October 18-22.  
+[Dillon91] 
+Dillon A. (1991) Readers’ models of text structures. International Journal of Man-Machine Studies, 35, 913-925. 
+[DillonGabbard98] 
+Dillon, A., et Gabbard, R. (1998). Hypermedia as an educational technology: a review of the empirical literature on learner comprehension, control and style. Review of Educational Research, 68(3), 322-349. 
+[Dochy03] 
+Dochy, F., Segers, M., Van den Bossche, P., et Gijbels, D. (2003). Effects of problem-based learning: A meta-analysis. Learning and Instruction, 13(5), 533-568. 
+[Dufresne91] 
+Dufresne, A. (1991). Ergonomie cognitive, hypermédias et apprentissage. Actes des premières journées scientifiques Hypermédias et Apprentissage. (pp. 121-132). Paris : INRP – EPI,  
+[ElshoutMohrAl99] 
+Elshout-Mohr, M., Van Hout-Wolters, B. et Broekkamp, H. (1999). Mapping situations in classroom and research : Eight types of instructional-learning episodes. Learning and Instruction, 9(1), 57-76. 
+[Fastrez02] 
+Fastrez, P. (2002). La structuration d’un hypermédia éducatif influence-t-elle sur l’organisation des connaissances en découlant ?. Actes du Colloque Compréhension et Hypermédia. (pp. 109-131). Albi. 
+[Foucault02] 
+Foucault, B., Metzger, J.-L., et Vaylet, A. (2002). Les réseaux d’entraide entre apprenants dans la e-formation : nécessité et efficacité ? Éducation Permanente, 152, 95-105. 
+[Galusha98] 
+Galusha, J.M. (1998). Barriers to learning in distance education. http://www.infrastruction.com/barriers.htm consulté le 24 août 2003  
+[GasenPreece96] 
+Gasen, J.B., et Preece, J. (1996). What shapes the face of human-computer interaction in higher education? A framework of the influences. Journal of Computing in Higher Education, 8(1), 97-123. 
+[Gineste97] 
+Gineste, M.D. (1997). Analogie et cognition. Paris : PUF. 
+[HayesRothHayesRoth79] 
+Hayes-Roth, B., et Hayes-Roth, F. (1979). A cognitive model of planning. Cognitive Science, 3(4), 275­
+310. 
+[Horton00] 
+Horton, W.K. (2000). Designing web based training. New York: Wiley. 
+[JacobsonArchodidou00] 
+Jacobson, M.J., et Archodidou, A. (2000). The design of hypermedia tools for learning: Fostering conceptual change and transfer of complex scientific knowledge. The Journal of the Learning Sciences, 9(2), 149-199. 
+[JonassenWang93] 
+Jonassen, D.H., et Wang, S. (1993). Acquiring structural knowledge from semantically structured hypertext. Journal of Computer-Based Interaction, 20(1), 1-8. 
+[JooGrable01] 
+Joo, S., et Grable, J. E. (2001). Factors associated with seeking and using professional retirement-planning help. Family and Consumer Sciences Research Journal, 30, 37-63. 
+[KalyugaAl03] 
+Kalyuga, S., Ayres, P., Chandler, P., et Sweller, J. (2003). The expertise reversal effect. Educational Psychologist, 38(1), 23-31. 
+[KalyugaAl00] 
+Kalyuga, S., Chandler, P., et Sweller, J.  (2000). Incorporating learner experience into the design of multimedia instruction. Journal of Educational Psychology, 92, 126-136 
+[Laurillard98] 
+Laurillard, D. (1998). Multimedia and the learner’s experience of narrative. Computers and Education, 31(2), 229-242. 
+[LeeOwens00] 
+Lee, W.W., et Owens, D.L. (2000). Multimedia-based instructional design. San Francisco: Jossey Bass Pfeiffer. 
+[Leplat91] 
+Leplat, J. (1991). Compétence et ergonomie. In R. Amalberti, M. de Montmollin et J. Theureau, (Eds.), Modèles en analyse du travail (pp. 263-278). Liège : Mardaga. 
+[Lohr00] 
+Lohr, L.L. (2000). Designing the instructional interface. Computers in Human Behavior, 16(2), 161-182. 
+[Lowe03] 
+Lowe R. (2003). Animation and learning: selective processing of information in dynamic graphics. Learning and Instruction, 13(2), 157-176. 
+[Mayer01] 
+Mayer, R. (2001). Multimedia learning. New York: Cambridge University Press. 
+[MayerMoreno02] 
+Mayer, R.E., et Moreno, R. (2002). Animation as an aid to multimedia learning. Educational Psychology Review,14, 87-99. 
+[Mohageg92] 
+Mohageg, M.F. (1992). The influence of hypertext linking structures on the efficiency of information retrieval. Human Factors, 34(3), 351-367. 
+[MorenoMayer00] 
+Moreno, R., et Mayer, R.E. (2000). A coherence effect in multimedia learning: The case for minimizing irrelevant sounds in the design of multimedia instructional messages. Journal of Educational Psychology, 97, 117-125. 
+[MorenoMayer02] 
+Moreno, R., et Mayer, R.E. (2002). Verbal redundancy in multimedia learning: When reading helps listening. Journal of Educational Psychology, 94, 156-163. 
+[MorrisonAl02] 
+Morrison, J.B., Tversky, B., et Bétrancourt, M. (2002). Animation: Can it facilitate? International Journal of Human-Computer Studies, 57(4), 247-263. 
+[NanardNanard98] 
+Nanard, J., et Nanard, M. (1998). La conception d’hypermédias. In A. Tricot et J.-F. Rouet (Eds.), Les hypermédias, approches cognitives et ergonomiques. (pp. 15-34). Paris : Hermès.  
+[Nielsen00] 
+Nielsen, J. (2000). Designing web usability: the practice of simplicity. Indianapolis: New Riders.  
+[OMalley92] 
+O’Malley, C. (1992). Designing computer systems to support peer learning. European Journal of Psychology of Education, 7( 4), 339-352. 
+[Oliver00] 
+Oliver, M. (2000). Evaluating online teaching and learning. Information Services and Use, 20(2/3), 83-94. 
+[Paquette02] 
+Paquette G. L'ingénierie pédagogique, Sainte-Foy, Presses de l'Université du Québec, 2002. 
+[PaquetteAl97] 
+Paquette G., Ricciardi-Rigault C., de la Teja I., et Paquin C. (1997). Le Campus Virtuel : un réseau d’acteurs et de ressources. Revue de l’Association canadienne d’éducation à distance, 12(1/2), 85-101. 
+[PerruchetNicolas98] 
+Perruchet, P., et Nicolas, S. (1998). L’apprentissage implicite : un débat théorique. Psychologie Française, 43, 13-25. 
+[Reinwein98] 
+Reinwein, J. (1998). L’illustration et le texte - revue analytique des recherches expérimentales. Trouvé le 23 mai 2002 sur http://www.unites.uqam.ca/lireimage 
+[RenklAtkinson03] 
+Renkl, A., et Atkinson, R. (2003). The effect of gradually increasing problem-solving demands in cognitive skill acquisition. Educational Psychologist, 38(1), 15-22. 
+[Rogalski95] 
+Rogalski, J. (1995). From real situations to training situations: Conservation of functionalities. In J.-M. Hoc et P.C. Cacciabue (Eds.), Expertise and technology: Cognition and human-computer cooperation (pp. 125-139). Hillsdale: Erlbaum. 
+[RogalskiSamurcay86] 
+Rogalski, J., et Samurcay R. (1986). Les problèmes cognitifs rencontrés par des élèves de l’enseignement secondaire dans l’apprentissage de l’informatique. European Journal of Psychology of Education, 1(2), 97-110. 
+[Rouet96] 
+Rouet, J.-F., Britt, M.A., Mason, R.A., et Perfetti, C.A. (1996). Using multiple sources of evidence to reason about history. Journal of Educational Psychology, 88(3), 478-493. 
+[SamurcayRogalski98] 
+Samurçay, R., et Rogalski, J. (1998). Exploitation didactique des situations de simulation. Le Travail Humain, 61(4), 333-359. 
+[Scaife97] 
+Scaife, M., Rogers, Y., Aldrich, F., et Davies M., (1997). Designing for or designing with ? Informant Design for Interactive learning environments. CHI 97 Electronic Publications. Trouvé le 28 décembre 2002 sur www.acm.org/sigchi/chi97/proceedings/papers/ms.htm 
+[ScapinBastien97] 
+Scapin, D.L. et Bastien, J.M.C. (1997). Ergonomic criteria for evaluating the ergonomic quality of interactive systems. Behavior and Information Technology, 17(4/5), 220-231. 
+[Schacter99] 
+Schacter, D.L. (1999). A la recherche de la mémoire. Le passé, l’esprit et le cerveau. Bruxelles : DeBoeck.  
+[Schanck02] 
+Schanck, R.C. (2002). Designing world class e-learning. New York: McGraw-Hill. 
+[Searle01] 
+Searle, J. (2001). Rationality in action. Cambridge: MIT Press. 
+[Shayer03] 
+Shayer, M. (2003). Not just Piaget; Not just Vygotsky, and certainly not Vygotsky as alternative to Piaget. Learning and Instruction, 13(5), 465-486. 
+[Simon73] 
+Simon H.A. (1973). The structure of ill-structured problems. Artificial Intelligence, 4, 181-201. 
+[SouryLavergne98] 
+Soury-Lavergne, S. (1998). Étayage et explication dans le préceptorat distant, le cas de Télécabri. Thèse de doctorat, Université Grenoble 1, Grenoble.  
+[SquiresPreece96] 
+Squires, D., et Preece, J. (1996). Usability and learning: evaluating the potential of educational software. Computers and Education, 27(1), 15-22. 
+[Sweller99] 
+Sweller, J. (1999). Instructional design in technical areas. Melbourne: ACER Press. 
+[SwellerCooper85] 
+Sweller, J., et Cooper G. (1985). The use of worked examples as a substitute for problem solving in learning algebra. Cognition and Instruction, 2, 59-89. 
+[TardieuGyselinck03] 
+Tardieu, H., et Gyselinck, V. (2003). Working memory constraints in the integration and comprehension of information in a multimedia context. In H. van Oostendorp (Ed.), Cognition in a Digital World. Mahwah: Erlbaum. 
+[TindallFordAl97] 
+Tindall-Ford, S., Chandler, P. et Sweller J. (1997). When two sensory modes are better than one. Journal of Experimental Psychology: Applied, 3(4), 257-287 
+[TricotBastien96] 
+Tricot, A. et Bastien, C. (1996). La conception d’hypermédias pour l’apprentissage : structurer des connaissances rationnellement ou fonctionnellement ? In E. Bruillard, J.-M. Baldner et G.L. Baron (Eds.), Hypermédias et Apprentissages 3. (pp. 57-72). Paris : INRP – EPI. 
+[Tricot95] 
+Tricot, A. (1995). Un point sur l’ergonomie des interfaces hypermédia. Le Travail Humain, 58(1), 17-45. 
+[Tricot03] 
+Tricot, A. (2003). IHM, cognition et environnements d’apprentissage. In G. Boy (Ed.), L’ingénierie cognitive : IHM et cognition (pp. 411-447). Paris : Hermès Science. 
+[TricotAl03a] 
+Tricot, A., Détienne, F., et Bastien, J.M.C. (Eds.), (2003). Recherches en psychologie ergonomique. Psychologie Française, 48 (3). 
+[TricotAl03b] 
+Tricot, A., Plégat-Soutjis, F., Camps, J.-F., Amiel, A., Lutz, G., et Morcillo, A. (2003). Utilité, utilisabilité, acceptabilité : interpréter les relations entre trois dimensions de l’évaluation des EIAH. In C. Desmoulins, P. Marquet et D. Bouhineau (Eds). Environnements informatiques pour l’apprentissage humain (pp. 391-402). Paris : ATIEF - INRP. 
+[TricotAl00] 
+Tricot, A., Pierre-Demarcy, C., et El Boussarghini, R. (2000). Specific help devices for educational hypermedia. Journal of Computer Assisted Learning, 16, 102-113. 
+[TuovinenSweller99] 
+Tuovinen, J., et Sweller, J. (1999). A comparison of cognitive load associated with discovery learning and worked examples. Journal of Educational Psychology, 91, 334-341. 
+[VinceTiberghien00] 
+Vince, J., et Tiberghien, A. (2000). Simuler pour modéliser. Le cas du son, Sciences et techniques éducatives, 7(2), 333-366. 
+[Vion92] 
+Vion, R. (1992). La communication verbale. Analyse des interactions. Paris : Hachette. 
+[Virbel89] 
+Virbel, J. (1989). The contribution of linguistic knowledge to the interpretation of text structures. In J. André, V. Quint et R. Furuta (Eds.), Structured document. (pp. 181-190). Cambridge: Cambridge University Press. 
+[Visser02] 
+Visser, W., (2002). Conception individuelle et collective. Approche de l’ergonomie cognitive. In M. Borillo et J.-P. Goulette (Eds.), Cognition et création, explorations cognitives des processus de conception. Hayen : Mardaga. 
+
+[Waterworth02] 
+Waterworth, J.A. (2002). The primacy of human consciousness : towards a post-mechanistic conception of man, mind and creativity. In M. Borillo et J.-P. Goulette (Eds.), Cognition et création, explorations cognitives des processus de conception. Hayen : Mardaga. 
+[Yeaman89] 
+Yeaman, A.R.J. (1989). Resources for improving computerized learning environments. TechTrends, 34(6), 30-33. 
+[Zangerlu02] 
+Zangerlu, M. (2002). Effets formatifs attendus par les procédures de communication spécifiques de médias à distance et effets produits parleur contextualisation chez les apprenants. Communication présentée aux Journées de l’Innovation, Foix. 
+
+A propos des auteurs 
+André TRICOT possède un doctorat et une habilitation à diriger des recherches en psychologie. Il est maître de conférences à l’institut universitaire de formation des maîtres de Midi-Pyrénées. Il co-dirige l’équipe de recherche technologique « hypermédias et apprentissages » et effectue ses recherches au sein du Laboratoire Travail et Cognition, unité mixte de recherche du CNRS à Toulouse. Ses activités de recherche concernent l’analyse de l’activité humaine d’apprentissage et de recherche d’information dans des documents électroniques. La finalité de ces travaux est l’amélioration de la conception et de l’évaluation de documents pour l’apprentissage. 
+Adresse : Hypermédias et apprentissages, ERT34  Institut Universitaire de Formation des Maîtres de Midi-Pyrénées 56 avenue de l’URSS 31 058 Toulouse cedex- France 
+Courriel : andre.tricot@toulouse.iufm.fr 
+Fabienne PLEGAT-SOUTJIS détient un doctorat en Sciences du Langage et est rattachée à l’Equipe de Recherche Technologique 34 "hypermédias et apprentissages" et au Centre Pluridisciplinaire de Sémiolinguistique Textuelle de Toulouse. Elle enseigne à l’Institut Universitaire de Formation des Maîtres de Midi Pyrénées, depuis 2001, en tant qu’Attachée Temporaire à l’Enseignement et à la Recherche. 
+Adresse :  Institut Universitaire de Formation des Maîtres de Midi-Pyrénées - CERFI  56 avenue de l’URSS 31 058 Toulouse cedex- France 
+Courriel : fabienne.plegat-soutjis@toulouse.iufm.fr 
+Référence de l´article : 
+André Tricot, Fabienne Plégat-Soutjis, Pour une approche ergonomique de la conception d’un dispositif de formation à distance utilisant les TIC, Revue STICEF, Volume 10, 2003, ISSN : 1764-7223, mis en ligne le 5/02/2004, http://sticef.org 
+© Revue Sciences et Technologies de l´Information et de la Communication pour l´Éducation et la Formation, 2003 
+
+
+
